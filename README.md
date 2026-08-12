@@ -14,3 +14,4 @@ logger.info('action', { userId: 123, duration: 45 });
 - ✓ Ferrow agent tracing
 
 ## License: MIT
+## Examples
