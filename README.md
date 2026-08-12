@@ -1,4 +1,5 @@
 # structured-logger
+![CI](https://github.com/FerrowAI/structured-logger/actions/workflows/ci.yml/badge.svg)
 
 Leveled JSON logger with child loggers, key redaction (deep), and pluggable async sink. Outputs ISO timestamps, filters by level, and propagates context through child loggers.
 
