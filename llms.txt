@@ -1,0 +1,16 @@
+# structured-logger
+> Leveled JSON logger with child loggers, key redaction, and pluggable sink
+
+Leveled JSON logger with child loggers, key redaction (deep), and pluggable async sink. Outputs ISO timestamps, filters by level, and propagates context through child loggers. ```bash npm install structured-logger
+
+## API
+- `LogLevel`
+- `LogSink`
+- `LogEntry`
+- `StructuredLoggerOptions`
+- `StructuredLogger`
+
+## Install
+Each library is a standalone GitHub repo under github.com/Ruzylo-cloud.
+
+Part of the Ferrow open-source toolkit: https://github.com/Ruzylo-cloud/ferrow-toolkit — sponsored by https://ferrow.ai
