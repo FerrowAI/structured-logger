@@ -1,1 +1,24 @@
-{"name":"structured-logger","version":"1.0.0","description":"Leveled JSON logger with child loggers, key redaction, and pluggable sink","main":"dist/index.js","types":"dist/index.d.ts","scripts":{"build":"tsc"},"keywords":["logging","json","structured","levels","redaction","sink"],"author":"Ruzylo-cloud","license":"MIT","devDependencies":{"@types/node":"^26.2.0","typescript":"^7.0.2"}}
+{
+  "name": "@ferrow/structured-logger",
+  "version": "1.0.0",
+  "description": "Leveled JSON logger with child loggers, key redaction, and pluggable sink",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "logging",
+    "json",
+    "structured",
+    "levels",
+    "redaction",
+    "sink"
+  ],
+  "author": "Ruzylo-cloud",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^26.2.0",
+    "typescript": "^7.0.2"
+  }
+}

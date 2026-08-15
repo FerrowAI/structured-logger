@@ -6,7 +6,7 @@ Leveled JSON logger with child loggers, key redaction (deep), and pluggable asyn
 ## Installation
 
 ```bash
-npm install structured-logger
+npm install @ferrow/structured-logger
 ```
 
 ## Quick Start
